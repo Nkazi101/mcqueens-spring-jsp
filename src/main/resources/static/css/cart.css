@@ -1,0 +1,30 @@
+.cartpage{
+
+height:100vh;
+
+
+}
+
+.cartitem{
+
+display: flex;
+justify-content: space-evenly;
+align-items: flex-start;
+align-content: flex-end;
+padding: 10px;
+border-bottom: 1px solid;
+
+
+
+}
+
+.cartitem img {
+
+    width:10%;
+    height:auto;
+}
+
+h1{
+
+    text-align: center;
+}

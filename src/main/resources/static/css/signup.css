@@ -1,0 +1,20 @@
+
+.signuppage{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    
+    }
+    
+    .signupbox {
+    
+    border:1px solid black; /* add a border around the form */
+    padding: 20px;
+    width: 400px; /* set the width of a form */
+    
+    }
+    
+    
